@@ -30,6 +30,7 @@ print(soup.body.text)
 for x in soup.find_all('a'):
     print(x['href'])
 
+# weekend
 
 
 
