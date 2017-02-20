@@ -103,6 +103,7 @@ def getArtPages(URL):
                 getArtPages('/article'+newURL[0])
 
 getArtPages('')
+# UnboundLocalError: local variable 'html' referenced before assignment
 
 
 
