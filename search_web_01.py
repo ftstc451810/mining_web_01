@@ -64,7 +64,6 @@ def getTitle(url):
 # for tr in bsObj.find('table',{'id':'giftList'}).tr:
 #     print(tr)
 # #     就只抓第一个tr标签而已
-#
 
 # 04wiki
 
