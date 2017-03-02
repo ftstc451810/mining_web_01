@@ -65,7 +65,7 @@ def getTitle(url):
 #     print(tr)
 # #     就只抓第一个tr标签而已
 # 04wiki
-
+#
 # random.seed(datetime.datetime.now())
 # def getLinks(wikiVoc):
 #     try:
